@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-## Deployed Link:- akhtarproject.netlify.app
+## Deployed Link:- https://akhtarproject.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
