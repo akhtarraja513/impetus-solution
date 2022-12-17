@@ -2,6 +2,8 @@
 
 ## Deployed Link:- https://akhtarproject.netlify.app/
 
+## GitHub Link:- https://github.com/akhtarraja513/impetus-solution.git
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
